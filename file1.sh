@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo HEllo World
+echo Hello World
 
 exit
